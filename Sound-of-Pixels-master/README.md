@@ -12,7 +12,7 @@ New contents:
 
 
 Prepare video dataset.
-Running prepare_data.sh in dir data
+    Running prepare_data.sh in dir data.
 
     Steps:
     a. Download MUSIC dataset from: https://github.com/roudimit/MUSIC_dataset
@@ -25,14 +25,14 @@ Running prepare_data.sh in dir data
 
 
 Train the default model.
-Running ./scripts/train_MUSIC.sh
+    Running ./scripts/train_MUSIC.sh
 
 
 Evaluation
-a. (Optional) Download our trained model weights for evaluation.
-    ./scripts/download_trained_model.sh
-b. Evaluate the trained model performance.
-    ./scripts/eval_MUSIC.sh
+    a. (Optional) Download our trained model weights for evaluation.
+        ./scripts/download_trained_model.sh
+    b. Evaluate the trained model performance.
+        ./scripts/eval_MUSIC.sh
 
 
 Reference
