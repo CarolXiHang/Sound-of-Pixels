@@ -5,7 +5,7 @@ Codebase for ECCV18 "The Sound of Pixels".
 
 
 New contents:
-1. Add data downloading part and fix the bug when creating data dirname(downloading data part). The space existing in data dirname will bring an error when loading the data.
+1. Add data preprocessing part and fix the bug when creating data dirname(downloading data part). The space existing in data dirname will bring an error when loading the data.
 2. Fix the bug in extracting audio part. ffmpeg requires a mp3 encoder(such as libmp3lame) when transform a mp4 file into mp3.
 3. Edit the parameters "scripts/train_MUSIC.sh" according to the local environment.
 4. Add clear.sh to restart downloading data if bugs happen.
