@@ -11,7 +11,8 @@ New contents:
 4. Add clear.sh to restart downloading data if bugs happen.
 
 
-Prepare video dataset.\n
+A. Prepare video dataset.
+
     Running prepare_data.sh in dir data.
 
     Steps:
@@ -24,13 +25,16 @@ Prepare video dataset.\n
     For each row, it stores the information: AUDIO_PATH,FRAMES_PATH,NUMBER_FRAMES
 
 
-Train the default model.
+B. Train the default model.
+
     Running ./scripts/train_MUSIC.sh
 
 
-Evaluation
+C. Evaluation
+
     a. (Optional) Download our trained model weights for evaluation.
         ./scripts/download_trained_model.sh
+	
     b. Evaluate the trained model performance.
         ./scripts/eval_MUSIC.sh
 
