@@ -1,7 +1,7 @@
 {
     "version": 1.0, 
     "videos": {
-        "flute violin": [
+        "flute_violin": [
             "8DHG_hVSw1o", 
             "XbOYpwFkn7o", 
             "RWP6BHh_c7Y", 
@@ -14,7 +14,7 @@
             "k3371a9MXsI", 
             "r29WR4uOf9k"
         ], 
-        "saxophone acoustic_guitar": [
+        "saxophone_acoustic_guitar": [
             "ywH4K8mQ-1s", 
             "WkY638E5wy8", 
             "RfTCdZEqWcg", 
@@ -46,7 +46,7 @@
             "WnXzjXoSF_g", 
             "9MOG4aV-qNU"
         ], 
-        "acoustic_guitar violin": [
+        "acoustic_guitar_violin": [
             "vEOyhF8KLPE", 
             "TWhQORO7aW4", 
             "kD4X8FmGlC4", 
@@ -91,7 +91,7 @@
             "XgU1dc7eys0", 
             "xkjj-wqj_5M"
         ], 
-        "flute trumpet": [
+        "flute_trumpet": [
             "awCkfdohkzE", 
             "JDV3yiF-6DU", 
             "gfkfwnOFybM", 
@@ -100,7 +100,7 @@
             "E_8W7f9ZZpY", 
             "8Oy-rsKES5I"
         ], 
-        "xylophone acoustic_guitar": [
+        "xylophone_acoustic_guitar": [
             "pIPr-lp0C6E", 
             "tHvLBLCBHyU", 
             "0EMNATwzLA4", 
@@ -109,12 +109,12 @@
             "GIB4tnBSWtg", 
             "fXjfvEcAV6w"
         ], 
-        "trumpet tuba": [
+        "trumpet_tuba": [
             "o3a6F070Xt0", 
             "Zqg4DwXmYBI", 
             "n8-2q4dheyU"
         ], 
-        "cello acoustic_guitar": [
+        "cello_acoustic_guitar": [
             "HnUOaSfTA6c", 
             "y0WB29MJJgQ", 
             "--IXKwloYLE", 
@@ -131,7 +131,7 @@
             "m_sKRr_n1NE", 
             "6KbXiT12LQ8"
         ], 
-        "clarinet acoustic_guitar": [
+        "clarinet_acoustic_guitar": [
             "NLooa9XHDMc", 
             "nTMJTm6tqoY", 
             "BbPsU29zD1U", 
@@ -161,7 +161,7 @@
             "S3ZIb96M6Ag", 
             "xkq-VyAzFHc"
         ], 
-        "xylophone flute": [
+        "xylophone_flute": [
             "h2oiK1-8U5U", 
             "kQZJh5Clq_s", 
             "OgHPzxGb1sM", 
