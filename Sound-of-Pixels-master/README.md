@@ -11,7 +11,7 @@ New contents:
 4. Add clear.sh to restart downloading data if bugs happen.
 
 
-Prepare video dataset.
+Prepare video dataset.\n
     Running prepare_data.sh in dir data.
 
     Steps:
